@@ -24,3 +24,10 @@ Once you have Python 3 and PyCharm Community Edition installed, you can run the 
 ```
 coffee_order.py
 
+```
+
+## Thanks (Reference)
+
+
+Toto MToto M&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 133 bronze badges, &amp; shr4pnelshr4pnel&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 17111 silver badge1111 bronze badges. (1968, March 1). Trying to write a food ordering SYS for homework in Python. Stack Overflow. https://stackoverflow.com/questions/70745403/trying-to-write-a-food-ordering-sys-for-homework-in-python
+ 
